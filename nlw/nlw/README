@@ -1,0 +1,3 @@
+##comando para tsc --init: npx -p typescript tsc --init
+
+###para rodar o typescript =  npm run dev 
